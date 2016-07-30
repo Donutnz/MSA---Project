@@ -1,2 +1,2 @@
 function say(){
-alert("Hello World");}
+alert("Hello Azure?");}
